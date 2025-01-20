@@ -1,0 +1,10 @@
+let d = new Date();
+console.log(d);
+console.log(d.toISOString());
+console.log(d.toDateString());
+console.log(d.toJSON());
+console.log(d.toLocaleDateString());
+console.log(d.toLocaleTimeString());
+console.log(d.toTimeString());
+console.log(d.toLocaleString());
+console.log(d.toString());
